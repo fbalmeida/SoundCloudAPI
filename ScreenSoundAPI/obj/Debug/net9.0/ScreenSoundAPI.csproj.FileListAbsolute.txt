@@ -1,0 +1,14 @@
+C:\Users\Felipe\Documents\Projetos\AulasAlura\ScreenSoundAPI\ScreenSoundAPI\ScreenSoundAPI\bin\Debug\net9.0\ScreenSoundAPI.exe
+C:\Users\Felipe\Documents\Projetos\AulasAlura\ScreenSoundAPI\ScreenSoundAPI\ScreenSoundAPI\bin\Debug\net9.0\ScreenSoundAPI.deps.json
+C:\Users\Felipe\Documents\Projetos\AulasAlura\ScreenSoundAPI\ScreenSoundAPI\ScreenSoundAPI\bin\Debug\net9.0\ScreenSoundAPI.runtimeconfig.json
+C:\Users\Felipe\Documents\Projetos\AulasAlura\ScreenSoundAPI\ScreenSoundAPI\ScreenSoundAPI\bin\Debug\net9.0\ScreenSoundAPI.dll
+C:\Users\Felipe\Documents\Projetos\AulasAlura\ScreenSoundAPI\ScreenSoundAPI\ScreenSoundAPI\bin\Debug\net9.0\ScreenSoundAPI.pdb
+C:\Users\Felipe\Documents\Projetos\AulasAlura\ScreenSoundAPI\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net9.0\ScreenSoundAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Documents\Projetos\AulasAlura\ScreenSoundAPI\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net9.0\ScreenSoundAPI.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\Projetos\AulasAlura\ScreenSoundAPI\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net9.0\ScreenSoundAPI.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Projetos\AulasAlura\ScreenSoundAPI\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net9.0\ScreenSoundAPI.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Projetos\AulasAlura\ScreenSoundAPI\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net9.0\ScreenSoundAPI.dll
+C:\Users\Felipe\Documents\Projetos\AulasAlura\ScreenSoundAPI\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net9.0\refint\ScreenSoundAPI.dll
+C:\Users\Felipe\Documents\Projetos\AulasAlura\ScreenSoundAPI\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net9.0\ScreenSoundAPI.pdb
+C:\Users\Felipe\Documents\Projetos\AulasAlura\ScreenSoundAPI\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net9.0\ScreenSoundAPI.genruntimeconfig.cache
+C:\Users\Felipe\Documents\Projetos\AulasAlura\ScreenSoundAPI\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net9.0\ref\ScreenSoundAPI.dll
